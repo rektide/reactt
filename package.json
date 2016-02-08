@@ -1,6 +1,6 @@
 {
 	"name": "reactt",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "React Tagged Template String function",
 	"main": "reactt.js",
 	"scripts": {
@@ -15,7 +15,6 @@
 	"dependencies": {
 		"jsx-transpiler": "^0.1.4",
 		"react": "^0.14.7",
-		"react-dom": "^0.14.7",
 		"tagged-template": "^1.0.0"
 	}
 }

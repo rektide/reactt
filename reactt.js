@@ -1,6 +1,5 @@
 var
   React= require( "react"),
-  ReactDOM= require( "react-dom"),
   Jsx= require( "jsx-transpiler"),
   tt= require("tagged-template")
 
